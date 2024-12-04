@@ -3,8 +3,6 @@
 Benvenuti nel mio profilo GitHub! 🎉  
 Sono laureata in **Chimica** e attualmente sto affrontando una nuova e appassionante sfida professionale nel mondo della **programmazione**.
 
----
-
 ## 🔧 Competenze Tecniche
 
 | **Categoria**       | **Competenze**                                           |
@@ -15,12 +13,8 @@ Sono laureata in **Chimica** e attualmente sto affrontando una nuova e appassion
 | **Progettazione**    | UML, MVC                                                |
 | **Metodologie**      | Scrum                                                   |
 
----
-
 ## 🌐 Contatti
 
 📌 **LinkedIn**: [Chiara Trotta](https://www.linkedin.com/in/chiara-trotta)  
-
----
 
 Grazie per aver visitato il mio profilo! 😊
